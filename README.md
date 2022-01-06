@@ -6,6 +6,7 @@ I’m currently learning `Cryptocurrency`, `Technology` & `Automotive`.
 ![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&color=563d7c) 
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&color=red) 
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DBFB) 
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&color=F0DB4F) 
 ![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=mysql&color=563d7c) 
 
 ![](https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=bootstrap&color=563d7c) 
