@@ -28,4 +28,3 @@ I’m currently learning `Cryptocurrency`, `Technology` & `Automotive`.
 
 </br>
 <p><img src="https://github-readme-stats.vercel.app/api?username=ifmystery&show_icons=true&theme=tokyonight&locale=en" alt="irfan" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ifmystery&layout=compact&show_icons=true&theme=tokyonight&locale=en" alt="irfan" /></p>
