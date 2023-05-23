@@ -1,11 +1,13 @@
 <h1 align="center">Hi, I'm Muhammad Irfan Bakhtiar</h1>
 <h3 align="center">I am a fresh graduate of a private college, as a computer applied bachelor. I have the ability to create website designs and develop websites.</h3>
 
-- 👨‍💻 All of my projects are available at [irfan.ntndev.my.id](irfan.ntndev.my.id)
+- 👨‍💻 All of my projects are available at <a href="https://irfan.ntndev.my.id" target="blank">irfan.ntndev.my.id</a>
 
-- 📫 How to reach me **m.irfanbakhtiar99@gmail.com**
+- 📄 Know about my experiences <a href="https://irfan.ntndev.my.id" target="blank">irfan.ntndev.my.id</a>
 
-- 📄 Know about my experiences [irfan.ntndev.my.id](irfan.ntndev.my.id)
+- 📫 How to reach me m.irfanbakhtiar99@gmail.com
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
